@@ -31,3 +31,8 @@ __Zapišite kaj počnejo ukazi v 1.,2. in 3. vrstici (v user code begin 3):__
 
 __Komentar:__
 Vse deluje tako kot mora.
+
+
+__SLIKE:__
+
+![se enkrat loadi](pinout.png)
