@@ -36,3 +36,6 @@ Vse deluje tako kot mora.
 __SLIKE:__
 
 ![se enkrat loadi](pinout.png)
+![se enkrat loadi](Slika_osciloskopa.jpg)
+![se enkrat loadi](parameter_settings_1.png)
+![se enkrat loadi](parameter_settings_2.png)
